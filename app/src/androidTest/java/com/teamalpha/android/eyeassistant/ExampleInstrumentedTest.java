@@ -1,4 +1,4 @@
-package com.example.shishir.eyeassistant;
+package com.teamalpha.android.eyeassistant;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("com.example.shishir.eyeassistant", appContext.getPackageName());
+        assertEquals("com.teamalpha.android.eyeassistant", appContext.getPackageName());
     }
 }

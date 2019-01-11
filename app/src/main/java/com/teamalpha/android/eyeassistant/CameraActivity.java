@@ -1,4 +1,4 @@
-package com.example.shishir.eyeassistant;
+package com.teamalpha.android.eyeassistant;
 import android.Manifest;
 import android.app.Activity;
 import android.app.Fragment;
@@ -14,8 +14,8 @@ import android.view.KeyEvent;
 import android.view.WindowManager;
 import android.widget.Toast;
 import java.nio.ByteBuffer;
-import com.example.shishir.eyeassistant.Logger;
-import com.example.shishir.eyeassistant.R;
+import com.teamalpha.android.eyeassistant.Logger;
+import com.teamalpha.android.eyeassistant.R;
 
 public abstract class CameraActivity extends Activity implements OnImageAvailableListener {
     private static final Logger LOGGER = new Logger();

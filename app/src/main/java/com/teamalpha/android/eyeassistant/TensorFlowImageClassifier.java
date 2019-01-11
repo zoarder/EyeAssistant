@@ -1,4 +1,4 @@
-package com.example.shishir.eyeassistant;
+package com.teamalpha.android.eyeassistant;
 
 import android.content.res.AssetManager;
 import android.graphics.Bitmap;

@@ -1,4 +1,4 @@
-package com.example.shishir.eyeassistant;
+package com.teamalpha.android.eyeassistant;
 
 import android.Manifest;
 import android.annotation.SuppressLint;
@@ -49,8 +49,8 @@ import java.util.List;
 import java.util.concurrent.Semaphore;
 import java.util.concurrent.TimeUnit;
 
-import com.example.shishir.eyeassistant.Logger;
-import com.example.shishir.eyeassistant.R;
+import com.teamalpha.android.eyeassistant.Logger;
+import com.teamalpha.android.eyeassistant.R;
 
 @SuppressLint("ValidFragment")
 public class CameraConnectionFragment extends Fragment {

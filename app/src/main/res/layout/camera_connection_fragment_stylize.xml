@@ -3,7 +3,7 @@
     android:orientation="vertical"
     android:layout_width="match_parent"
     android:layout_height="match_parent">
-    <com.example.shishir.eyeassistant.AutoFitTextureView
+    <com.teamalpha.android.eyeassistant.AutoFitTextureView
         android:id="@+id/texture"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
@@ -23,13 +23,13 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content" />
 
-    <com.example.shishir.eyeassistant.OverlayView
+    <com.teamalpha.android.eyeassistant.OverlayView
         android:id="@+id/overlay"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:layout_alignParentTop="true" />
 
-    <com.example.shishir.eyeassistant.OverlayView
+    <com.teamalpha.android.eyeassistant.OverlayView
         android:id="@+id/debug_overlay"
         android:layout_width="match_parent"
         android:layout_height="match_parent"

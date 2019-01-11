@@ -1,4 +1,4 @@
-package com.example.shishir.eyeassistant;
+package com.teamalpha.android.eyeassistant;
 
 import org.junit.Test;
 

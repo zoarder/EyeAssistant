@@ -1,4 +1,4 @@
-package com.example.shishir.eyeassistant;
+package com.teamalpha.android.eyeassistant;
 
 import android.graphics.Bitmap;
 import android.graphics.Bitmap.Config;
@@ -19,12 +19,12 @@ import android.util.TypedValue;
 import android.view.Display;
 import java.util.List;
 import java.util.Vector;
-import com.example.shishir.eyeassistant.Logger;
-import com.example.shishir.eyeassistant.ResultsView;
-import com.example.shishir.eyeassistant.BorderedText;
-import com.example.shishir.eyeassistant.OverlayView.DrawCallback;
-import com.example.shishir.eyeassistant.ImageUtils;
-import com.example.shishir.eyeassistant.R;
+import com.teamalpha.android.eyeassistant.Logger;
+import com.teamalpha.android.eyeassistant.ResultsView;
+import com.teamalpha.android.eyeassistant.BorderedText;
+import com.teamalpha.android.eyeassistant.OverlayView.DrawCallback;
+import com.teamalpha.android.eyeassistant.ImageUtils;
+import com.teamalpha.android.eyeassistant.R;
 
 public class ClassifierActivity extends CameraActivity implements OnImageAvailableListener {
     private static final Logger LOGGER = new Logger();
