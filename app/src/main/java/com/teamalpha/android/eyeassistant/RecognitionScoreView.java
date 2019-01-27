@@ -64,5 +64,10 @@ public class RecognitionScoreView extends View implements ResultsView {
                 t1.speak(recog.getTitle(), TextToSpeech.QUEUE_FLUSH, null);
 //            }
         }
+
+//        if (t1 != null) {
+//            t1.stop();
+//            t1.shutdown();
+//        }
     }
 }

@@ -40,7 +40,7 @@ public class SplashActivity extends AppCompatActivity {
             @Override
             public void run() {
                 Intent intent;
-                intent = new Intent(SplashActivity.this, ClassifierActivity.class);
+                intent = new Intent(SplashActivity.this, MainActivity.class);
                 startActivity(intent);
                 finish();
             }
